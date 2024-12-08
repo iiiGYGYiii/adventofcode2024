@@ -3,11 +3,14 @@ Advent of Code Edition 2024 Solutions for ZTM
 
 ## How use
 
-Making use of following command
+1. Provide the `input.txt` on each `/day{number}/` folder (e.g. `src/day5/input.txt`)
+
+2. Make use of following command
 
 `python src [day_number]`
 
-Not providing a `day_number` of providing wrong argument will log all solutions. (This includes providing a day that does not exists yet).
+> Not providing a `day_number` will log all solutions.
+> Providing wrong input or non-existing day, will log that request was not found.
 
 ## Running tests
 
